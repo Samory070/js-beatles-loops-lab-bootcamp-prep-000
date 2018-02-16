@@ -1,5 +1,6 @@
 function theBeatlesPlay(musicians, instruments) {
-  for(var i = 0; i < array.length; i++) {
+  let arr = []
+  for(var i = 0; i < arr.length; i++) {
     musicians
   }
 
